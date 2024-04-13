@@ -1,9 +1,75 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "currentPage": 1,
+    "hasNextPage": true,
+    "results": [
+        {
+            "id": "shingeki-no-kyojin",
+            "title": "Shingeki no Kyojin",
+            "image": "https://gogocdn.net/images/anime/Shingeki-no-Kyojin.jpg"
+        
+        },
+	{
+            "id": "one-piece",
+            "title": "One Piece",
+            "image": "https://gogocdn.net/cover/one-piece-1708412053.png"
+           
+        },
+	{
+            "id": "tokyo-ghoul",
+            "title": "Tokyo Ghoul",
+            "image": "https://gogocdn.net/images/summer/Tokyo Ghoul.jpg"
+        },
+	 {
+            "id": "death-note",
+            "title": "Death Note",
+            "image": "https://gogocdn.net/cover/death-note.png"
+        },
+	{
+            "id": "one-punch-man",
+            "title": "One Punch Man",
+            "image": "https://gogocdn.net/images/upload/76049.jpg"
+        },
+	{
+            "id": "kimetsu-no-yaiba",
+            "title": "Kimetsu no Yaiba",
+            "image": "https://gogocdn.net/cover/kimetsu-no-yaiba.png"
+        },
+	 {
+            "id": "naruto",
+            "title": "Naruto",
+            "url": "https://gogoanime3.co//category/naruto",
+            "image": "https://gogocdn.net/images/anime/N/naruto.jpg",
+            "releaseDate": "Released: 2002",
+            "subOrDub": "sub"
+        },
+	    "id": "hunter-x-hunter",
+            "title": "Hunter X Hunter",
+            "image": "https://gogocdn.net/images/anime/H/hunter_x_hunter.jpg"
+        },
+	{
+            "id": "jujutsu-kaisen-0",
+            "title": "Jujutsu Kaisen 0",
+            "image": "https://gogocdn.net/cover/jujutsu-kaisen-0.png"
+        },
+	{
+            "id": "sword-art-online",
+            "title": "Sword Art Online",
+            "image": "https://gogocdn.net/images/anime/S/sword-art-online.jpg"
+        },
+{
+            "id": "haikyuu",
+            "title": "Haikyuu!!",
+            "image": "https://gogocdn.net/images/spring/Haikyuu.jpg"
+        },
+{
+            "id": "fullmetal-alchemist",
+            "title": "Fullmetal Alchemist",
+            "image": "https://gogocdn.net/images/anime/F/fullmetal_alchemist.jpg"
+        },
+ 	{
+            "id": "bleach",
+            "title": "Bleach",
+            "image": "https://gogocdn.net/images/anime/B/bleach.jpg"
+        }
+]
 }
